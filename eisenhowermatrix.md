@@ -1,0 +1,4 @@
+|            | **Urgent** | **Not Urgent** |
+|------------|------------|----------------|
+| **Important** | **Do - (MVP)**<br>-Parsing a list of creators<br>-Pulling data for creators from Ticketmaster API<br>-Tracking upcoming events| **Schedule - (For V2.0)**<br>-API for adding new creators to the creator list<br>-Sending notifications through OS<br>-Integration with calendars|
+| **Not Important** | **Delegate - (use a library)**<br>-Compiling data for creators (Ticketmaster API does it)<br>-Use node+express for web app backend<br>-Use builtin JSON class to parse files| **Delete - (cut it)**<br>-Options for sorting by the towns where the performers are going to be at<br>-Ticket price filters<br>-Interactive visual map with events and creators of choosing|
