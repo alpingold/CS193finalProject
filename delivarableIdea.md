@@ -1,0 +1,1 @@
+A webapp that scrapes TicketMaster API for upcoming events from creators that you like. Written in typescript using Node+Express for backend and whatever I can muster up for the frontend with the time I'll have left.

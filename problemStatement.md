@@ -1,0 +1,1 @@
+Oftentimes I find out about concerts by music artists that I like way too late or after the fact. This ends with having to pay exorbitantly high ticket prices or missing the show altogether.
